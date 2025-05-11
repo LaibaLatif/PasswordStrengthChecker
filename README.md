@@ -1,8 +1,8 @@
-🔐# Password Strength Checker
+# 🔐Password Strength Checker
 
 A simple yet educational Password Strength Checker developed for a Civic Engagement Seminar activity with 9th grade students. This project helps users understand what makes a password strong and how to improve password security. It also introduces basic programming concepts and real-world cybersecurity awareness.
 
-#🧠 Purpose
+# 🧠 Purpose
 
 This project was created as part of a school outreach activity to:
 
@@ -12,7 +12,7 @@ Introduce basic logic and UI programming
 
 Promote awareness about cybersecurity and safe digital practices
 
-#**💻 Features**
+# 💻 Features
 
 ✔️ Real-time password strength evaluation
 
@@ -30,7 +30,7 @@ Numbers and special characters
 
 ✔️ Lightweight and fast – perfect for demos and classroom activities
 
-#**🛠️ Technologies Used**
+# **🛠️ Technologies Used**
 
 Simple frontend UI for input and result display (html, css, js)
 
